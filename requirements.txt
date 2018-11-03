@@ -1,0 +1,9 @@
+numpy
+pandas
+pandas-gbq
+google-auth==1.2.1
+google-auth-oauthlib==0.2.0
+google-cloud==0.32.0
+pystan
+jupyter_contrib_nbextensions
+scikit-learn[alldeps]
